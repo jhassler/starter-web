@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-mergeconflict alla
+we will see what we get
 
 ## Purpose
 
